@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "container:../SwiftyEC/SwiftyEC/SwiftyEC.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "container:CryptoTest.xcodeproj">
+   </FileRef>
+</Workspace>
